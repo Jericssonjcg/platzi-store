@@ -10,6 +10,7 @@ git:
 script:
   - yarn build
 notifications:
+  slack: codetechnews:qw2lmvG5X7womOB40DCgXtj4
   email:
     recipients:
       - jericssonjcg@gmail.com
